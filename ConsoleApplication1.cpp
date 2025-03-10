@@ -4,5 +4,6 @@ int main()
 {
     std::cout << "Hello!\n";
     std::cout << "Change 1\n";
+    std::cout << "darova!\n";
     std::cout << "88\n";
 }
